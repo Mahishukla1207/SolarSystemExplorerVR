@@ -1,0 +1,47 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+.vscode/
+.vs/
+.idea/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+*.apk
+*.aab
+
+Thumbs.db
+.DS_Store
+
+solarsys_BackUpThisFolder_ButDontShipItWithYourGame/
+Solarsystem_BurstDebugInformation_DoNotShip/
+.utmp/
+
+# Unity generated
+.utmp/
+
+# VS Code
+.vscode/
+
+# Android Builds
+*.apk
+*.aab
+
+# Burst Debug
+Solarsystem_BurstDebugInformation_DoNotShip/
+
+# Unity backup folder
+solarsys_BackUpThisFolder_ButDontShipItWithYourGame/
