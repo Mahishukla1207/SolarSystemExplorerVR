@@ -104,17 +104,11 @@ While developing this project, I gained hands-on experience with:
 - Optimizing and testing a Unity project on Meta Quest
 - Debugging XR and VR interaction issues
 
-## 🔮 Future Improvements
+## 🎥 Project Demo
 
-Possible future additions include:
+Watch the full VR experience demo below:
 
-- Planet grabbing and inspection mechanics
-- Voice narration
-- Interactive quizzes
-- More detailed planetary environments
-- Asteroid belts and additional celestial objects
-- Improved VR visual effects and animations
-- Educational missions and challenges
+[▶ Watch Demo Video] - https://drive.google.com/file/d/1OFOcjPvrRrE2A3opExYrFT9ZszfeWe8b/view?usp=drive_link
 
 ## 👩‍💻 Developer
 
